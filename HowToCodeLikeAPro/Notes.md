@@ -75,7 +75,11 @@ Functions should be verbs, actions that are happening.
 ## SOLID
 
 - Single responsibility principle.
+  - Small classes.
+  - Single responsibility classes.
+  - Limiting the impact of cange.
 - Open closed principle.
+  - Software should be open for extension, but closed for 
 - Liskov substitution principle.
 - Interface segregation principle.
 - Dependency inversion principle.
